@@ -1,0 +1,58 @@
+---
+title: 'Elegant and inelegant southeast European Latin in 1480–1680: Marko Marulić, Antun Vrančić, Stjepan Gradić'
+author: |
+    | Neven Jovanović 
+	| University of Zagreb, Faculty of Humanities and Social Sciences
+	| neven.jovanovic@ffzg.unizg.hr
+date: 'London, 18–19 September 2025'
+lang: en
+documentclass: article
+linestretch: 1.2
+papersize: 'a4'
+fontsize: '11pt'
+mainfont: 'Inconsolata'
+
+
+---
+
+Zenodo DOI: [10.5281/zenodo.15916705](https://doi.org/10.5281/zenodo.15916705)  
+Github: [github.com/nevenjovanovic/elegant-inelegant-2025](https://github.com/nevenjovanovic/elegant-inelegant-2025)
+
+The paper is part of the project AdriArchCult that has received funding from the European Union's Horizon 2020 Research and Innovation Programme ([Architectural Culture of the Early Modern Eastern Adriatic, GA n. 865863 ERC-AdriArchCult](https://pric.unive.it/projects/adriarchcult/home)).
+
+URL: http://temrezah.ffzg.unizg.hr/del/deliciae/2025-9-18-style-jovanovic/
+
+
+## The talk
+
+Books on writing well often use comparison as a teaching method: the author presents a passage, and then rewrites it, demonstrating that the revision is better, and showing which changes had to be made to make it better. I borrowed the method of comparing revised passages for an investigation into elegant Latin as written between 1500 and 1650. I identified several passages which were revised, described the changes using a consistent set of terms, then put all changes together in a list to see similarities and differences. The expectation was that these similarities and differences will reveal features of elegant Latin – what changes the authors did when they wanted to write better – and whether, or to what extent, these changes were individual or common over five generations (some 150 years).
+
+I will introduce briefly the authors and the texts, then present a sample of my analysis, and finally report on what I have found.
+
+The three authors whose Latin (in the process of becoming more elegant) I have examined all come from Dalmatia, but only one of them spent his whole life there; that one, Marko Marulić from Split, is the oldest one, and also the only one who did not (as far as we know) study in Italy. Antun Vrančić from Šibenik studied at Padua, Vienna and Krakow, and later held offices in the Kingdom of Hungary, while Stjepan Gradić – who was born in the free Republic of Dubrovnik and not a Venetian subject, as the other two – studied at Rome and lived there most of his life, as a member of the Holy See's administration. Marulić in his lifetime became famous for his religious works in Latin, but he wrote also in Croatian; Vrančić's wrote mostly pragmatically, as a politician and a courtier, and the largest part of his writings are some 790 letters; Gradić was a bureaucrat, but also a member of the Republic of Letters and a scholar with interest in history, geography, mathematics – in 1676 Graevius, in a letter to Heinsius, appreciated Gradić's Latin: "Non puto quenquam nunc in Italia degere, si discesserimus ab Octavio Ferrario, qui ingenii elegantia, et diligenter scribendi laude sit par Gradio".
+
+Marulić's first popular religious book, published in Venice in 1507, was the De institutione bene beateque vivendi per exempla sanctorum, a collection of lives of saints reorganized by individual virtues. We do not have the autograph of the work, so Marulić's role in my research is different; he did not simply reorganize events from the saint's lives, he also rewrote them, and I will show how his De institutione paraphrases its textual base, in this case the medieval Legenda aurea (whose first version was composed around 1264 by the dominican Jacobus de Voragine).
+
+Vrančić's letters are preserved today in the National Szechenyi Library in Budapest, in a large manuscript volume, partly written by Vrančić himself; the letters are in fair copy, but these copies sometimes contain additional changes – and sometimes even the first drafts are preserved, as we shall see in the example. In all, I have analysed Vrančić's changes in eight of his letters, written between 1538 and 1546.
+
+A dozen volumes of Gradić's manuscripts, comprising primarily his scholarly prose and poetry, mostly in autograph, often including both drafts and fair copies, are kept in the Vatican Apostolic Library. Gradić's text that I have studied is the prologue to his translation of Plutarch's Praecepta gerendae rei publicae. The prologue is a dedication to Gradić's older brother Junius, and it exists in two autograph versions, one in the manuscript Vaticanus latinus 6899, the other in the Vaticanus latinus 6909; a comparison shows that the version in 6899 is older, but the version in 6909 is not final either; the author was adding to it or crossing out some words. The translation was never published.
+
+My full list of changes Marulić, Vrančić and Gradić had introduced to their texts is available at a website and as a data repository, as listed on your handouts and shown on the screen; I have chosen three samples, one from each text, to present my research and the categorisation of changes. In the sample from Marulić, you can see how he brings rhetorical refinement to the medieval text, introducing what I have called generalisation -- when Marulić writes "in animo habebat" instead of Voragine's "jussit", Marulić uses a synonym, but he is also being less specific, as we do not see Othilia's father actually ordering her to be killed. Marulić transforms the syntax, revising "propter nimiam verecundiam" into a participium coniunctum "solo corporis vitio offensus" (note how Marulić also explains to the reader what the father's verecundia could have been). Marulić further amplifies the text by adding antithesis -- you will find several in the sample.
+
+After 1540, there were two pretendents for the Hungarian crown: the infant John Sigismund Zapolya and Ferdinand of Austria. In 1546 Antun Vrančić, member of the court of Zapolya's mother, the widow queen Isabella, left the court without a good reason and without a proper explanation, so later he composed a letter of excuse to another member of the court, Petrus Petrovius. The task must not have been easy: in the manuscript volume there are two versions of the letter, the first one is unfinished and crossed out, and the other one has further changes. This is our sample from Vrančić; note his transformation of the word order in the beginningm making the second version echo Cicero, De republica 1, 10 "Nescio, Africane, cur ita memoriae proditum sit" – although Vrančić still does not respect the rules of the Latin syntax! He chooses carefully perturbatio over calamitas, and progresses from "et quamquam non dubitem" over "nec dubito" to "et quamquam minime dubitem" (which is again suspect from the point of grammatical correctnes, although "minime dubito" is found often, for example, in the contemporary correspondence of Heinrich Bullinger c. 1550).
+
+The sentence from Gradić's prologue, where I have marked deletions by square brackets, and variants from the other manuscript by slashes, shows how he, contrary to other two authors, makes his Latin elegant by omitting words ("magnopere") and condensing expressions ("proficisci dicendum est" becomes "accidit") – at the same time this makes Gradić's expression more confident. Gradić also changes his mind over nuances: first he writes 
+quam ab asperitate quadam *et* angustijs, then changes this into quam ab asperitate quadam *atque* angustijs, then adds an anaphora quam ab asperitate quadam *atque ab* angustijs, to finally give up the anaphora and cross out the "ab".
+
+These are just examples of how I analysed the revisions in a larger selection – which is still small, about a thousand words – from each work. Each revision was marked and described, and I have tried to be consistent in terminology, at the same time respecting the impression the changes made on me. This procedure made it possible to compare what was marked in the three sets of samples, and to count occurrences of each type of change. In the materials on the internet you will find a simple statistical breakdown of my annotations for each set of samples (for each author, if you prefer); I will report on these breakdowns now and try to interpret them.
+
+There are two types of revision to be found in all three sets of samples: changes of synonyms (you will find a complete list of synonyms at the end of the research materials) and changes of word order. All authors add something as well, but in that category Vrančić holds the first place – although we could count Marulić's rhetorical amplifications, especially antitheses, as additions too. I have noted grammatical transformation in Vrančić and Gradić, but not in Marulić; there are syntactic transformations in Marulić and Vrančić, but not in Gradić. Gradić consistently makes his writing more concise by omitting and shortening expressions, while in Vrančić omissions are related to grammatical correctness and to immediate impact of his words on the addressee. And because Marulić paraphrases the Legenda aurea, picking only what he needs, we could say that omission is much more present in his writing – it is his basic procedure. While the revision types specific to Marulić all fall into the category of rhetorical amplifications, a change appearing only in Vrančić is specifying – when he uses "non intellectus" for "incognitus", or says not simply "legendum exposui" but "legendum Hungaris exposui", he makes his expression more precise.
+
+To conclude. The three sets of samples from three Dalmatian authors, active between 1500 and 1650, were marked and annotated for revisions. The annotations show that in the samples Latin elegance meant primarily a better choice of synonyms and a better word order. Now, the questions inevitably arise what does *better* mean, and how did the authors attain their knowledge of *better*, but this is something that has to be explored further and elsewhere. The samples show also that Latin elegance to an extent had individual features, that it was a a matter of individual preferences, skill and interest. Marulić revised by adding rhetorical figures, especially antithesis; Vrančić strove to make his letters more pragmatically effective – he revised thinking about the individual addressee and the circumstances; Gradić, contrary to the other two, revised by making his text more succinct – in this he is close to later perception of Latin as an exceptionally precise and concise language.
+
+This small comparison of revisions in three sets of samples thus, first, proves that elegance can be pinpointed; second, the comparison shows that elegance, like style in general, has both constant common features, and changing individual ones.
+
+Thank you.
+
+
+
