@@ -15,7 +15,7 @@ mainfont: 'Kyrtos'
 
 ---
 
-Zenodo DOI: [10.5281/zenodo.15916705](https://doi.org/10.5281/zenodo.15916705)  
+Zenodo DOI: [10.5281/zenodo.17137593](https://doi.org/10.5281/zenodo.17137593)  
 Github: [github.com/nevenjovanovic/elegant-inelegant-2025](https://github.com/nevenjovanovic/elegant-inelegant-2025)
 
 The paper is part of the project AdriArchCult that has received funding from the European Union's Horizon 2020 Research and Innovation Programme ([Architectural Culture of the Early Modern Eastern Adriatic, GA n. 865863 ERC-AdriArchCult](https://pric.unive.it/projects/adriarchcult/home)).
